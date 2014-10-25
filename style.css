@@ -1,0 +1,104 @@
+
+
+
+/*****top-border*******/
+.top-border {border-top:3px solid #58585a; }
+
+/**************header****************************/
+.header {margin-top: 10px}
+.header .navbar-default {background-color: transparent;border: none;padding: 0 !important;}
+.header ul{padding: 20px 0;font-family: "open sans";float: right;}
+.header li {padding: 0 0 10px 0;}
+.header li a{color: #000000;font-size: 17px;font-weight: bold;padding: 19px}
+.header li a:hover{text-decoration: none;}
+.header li:hover{background: url("images/hover.png")no-repeat 45% 100%;}
+.right-pad {padding-right: 0}
+
+/*********button******/
+.button {margin: 11px 0;}
+.button p{background: #00a1e2;padding: 10px 19px;border-radius: 5px;border: 1px solid #00a1e2;}
+.button a{color: #ffffff;text-decoration: none;}
+
+/******content******/
+.content h2{font-size: 40px; font-family: "open sans";font-weight: bold}
+.content p{font-size:29px; font-family: "open sans";font-weight: lighter;color: #3e3e3e}
+
+
+
+
+/*****large*****/
+.large {margin: 11px 25px 15px 35px;;}
+.large p{padding: 10px 0 !important;font-size: 25px;font-family: "open sans";font-weight: bold;}
+
+/*******white****/
+.white a{color: #057db0}
+.white p:hover{background: #00a1e2;}
+.white p:hover a{color: #ffffff;}
+.white p{background: none;border: 2px solid #2e96db;font-size: 23px;font-family: "open sans";font-weight: bold;}
+
+/*********thumbnail************/
+.thumbnail {border: none;background:url("images/line.png")no-repeat 55% 32%;}
+.thumbnail hr{border-color: #00a1e2;}
+.caption h3{font-size: 47px;font-weight: bold;font-family: "open sans";margin: 0 15px 0 20px; border-bottom: 1px solid #0fa2e0}
+
+/********social-icon*********/
+.social-icon2 {border-top:1px solid #ebebeb;border-bottom: 1px solid #ebebeb;margin: 30px 0;padding: 14px }
+.social-icon2 .social-icon {border-right: none !important;}
+.social-icon2 ul{margin-bottom: 0px;}
+.social-icon2 li{padding: 0 128px;}
+.social-icon2 li a i{font-size: 27px !important;color: #b4b4b5;font-weight: bold;}
+.social-icon2 li a:hover i{color: #00a1e2;}
+
+/********footer************/
+.footer {background: #3d3d3e;padding: 12px 10px 5px 10px}
+.footer p{font-size: 19px;color: #ffffff;}
+
+
+
+
+@media (max-width:960px) {
+    .video img{width: 100%}
+}
+
+
+
+
+
+
+
+
+/*******************************************************Design page*****************************************************************/
+
+
+.heading hr{margin-top: 45px}
+.heading h2{color: #3e3e3e}
+.heading p{color: #3e3e3e;font-size: 15px;font-family: "open sans";font-weight: 100}
+.heading li hr{border-top: 1px solid #0fa2e0;width: 70px;margin: 9px 0;}
+.heading li:last-child hr{border-top: 1px solid #0fa2e0;width: 776px;margin: 9px 0;}
+
+
+.line {
+    float: right;
+    position: relative;
+    left: 3px;
+}
+.line img {padding-top: 31px;}
+    /*padding-top: 30px;}*/
+
+.ser-widgets {}
+.ser-widgets img{width: 100%}
+.ser-widgets h3{font-size: 26px !important;font-family: "open sans";font-weight: bold;}
+.ser-widgets p {
+    font-size: 22px;
+    font-family: "open sans";
+    padding: 0px 82px 0 0;
+    margin: 0 100px 10px 0;
+}
+.ser-widgets ul{list-style-image: url("images/bullets.png");padding-left: 15px;}
+.ser-widgets li a{color: #3e3e3e;text-decoration: none;font-family: "open sans";font-size: 22px;font-weight: lighter;}
+
+
+.headline2 {}
+.headline2 h3{font-size: 23px;color: #057db0;}
+.headline2 {}
+.headline2 {}
